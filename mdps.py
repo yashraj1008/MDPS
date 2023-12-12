@@ -55,7 +55,7 @@ with col1:
     DiabetesPedigreeFunction = st.text_input('Diabetes Pedigree Function value(Range: 0 - 2 )')
     
 with col2:
-    Age = st.text_input('Enter Age of the Person (Range: 0 - 100 )')
+    Age = st.text_input('Enter Age of the Person (Range: 0 - 100)')
     
     
     # code for Prediction
